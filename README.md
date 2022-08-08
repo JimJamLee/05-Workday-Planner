@@ -81,4 +81,4 @@ The following image shows the web application's appearance and functionality:
 
 The following is a link to the deployed application in GitHub pages.
 
-[James Li Challenge 03: JavaScript](https://jimjamlee.github.io/05-Workday-Planner/)
+[James Li Challenge 05: 3rd Party APIs](https://jimjamlee.github.io/05-Workday-Planner/)
