@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body {
+  font-family: 'nova square';
+  font-size: 15px;
+  line-height: 1;
+  background-color: black;
+}
+
+textarea {
+  background: transparent;
+  border: white;
+  color: white;
+  resize: none;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  border-radius: 0;
+  border-bottom: 10px solid white;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;
+}
+
+.hour {
+  background-color: yellow;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.past {
+  background-color: blue;
+  color: white;
+}
+
+.present {
+  background-color: red;
+  color: white;
+}
+
+.future {
+  background-color: purple;
+  color: white;
+}
+
+.saveBtn {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: yellow;
+  color: black;
+  font-size: 2.0rem;
+  border: 1px solid white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
