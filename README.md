@@ -75,7 +75,7 @@ Submit the following for review:
 
 The following image shows the web application's appearance and functionality:
 
-![James Li quiz game app](./assets/05-workday-planner-screenshots.png)
+![James Li quiz game app](./assets/05-workday-planner-screenshot.png)
 
 ## Application Link
 
